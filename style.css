@@ -1,0 +1,110 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.section-1
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 100px;
+  box-shadow: 200px -186px 7px 200px rgba(224,224,224,0.77);
+}
+.sec-2
+{
+    display: flex;
+    color: red;
+    align-items: center;
+    text-align: center;
+    margin-left: 380px;
+    font-size: 20px;
+}
+.sec-3
+{
+   display: flex;
+   color: black;
+   font-size: 25px;
+   margin-left: 280px;
+
+}
+.sec-4
+{
+   display: flex;
+   text-align: center;
+   align-items: center;
+   text
+   font-size: 10px;
+   margin-left: 480px;
+}
+.sec-5
+{
+  display: flex;
+  align-items: center;
+  margin-left: 180px;
+  margin-top: 20px;
+}
+.nav,h3
+{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left: 180px;
+}
+.sec-6,.pag
+{
+  align-items: center;
+  text-align: start;
+  margin-left: 100px;
+}
+.sec-6,.p-1
+{
+   margin-left: 100px;
+   margin-right: 50px;
+}
+.sec-6,.p-2
+{
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: start;
+}
+.sec-6,.p-3
+{
+  margin-left: 100px;
+  margin-right: 50px;
+}
+.sec-7 ,.h3
+{
+  margin-left: 20px;
+}
+.sec-8
+{
+  margin-left: 200px;
+  margin-right: 100px;
+}
+.sec-9
+{
+  margin-left: 200px;
+}
+.sec-10
+{
+  margin-left: 200px;
+  margin-right: 100px;
+}
+.sec-11,.h3
+{
+  margin-left: 20px;
+
+}
+.sec-12
+{
+  margin-left: 200px;
+  margin-right: 100px;
+}
+.sec-13
+{
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 200px;
+  margin-right: 100px;
+}
